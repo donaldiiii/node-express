@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"doni",
+        "DB_PASSWORD":"doni",
+        "DB_NAME":"mern",
+        "JWT_KEY":"secretkeyviacimpekaaaaaa"
+    }
+}
