@@ -1,2 +1,2 @@
 # node-express
-eha
+Express + Mongo setup project
